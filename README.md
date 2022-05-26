@@ -1,2 +1,2 @@
 # CattoDiscordBot
-A discord bot coded in javascript :>
+A very simple discord bot coded in javascript :>
